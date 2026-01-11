@@ -1,6 +1,6 @@
 # Comparative Study of DNS, DNSSEC, DoT and DoH
 
-## 📌 Project Overview
+##  Project Overview
 This academic project presents a **comparative study of DNS, DNSSEC, DNS over TLS (DoT) and DNS over HTTPS (DoH)**.  
 The objective is to understand how each protocol works, analyze their security mechanisms, and observe how encryption improves privacy in DNS communications.
 
@@ -8,7 +8,7 @@ The project combines **theoretical analysis** and **practical experimentation** 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Understand the role of DNS in network communications  
 - Identify security vulnerabilities in classical DNS  
 - Study how DNSSEC, DoT and DoH enhance security and privacy  
@@ -16,7 +16,7 @@ The project combines **theoretical analysis** and **practical experimentation** 
 
 ---
 
-## 🧪 Practical Work Description
+##  Practical Work Description
 
 ### 🔹 1. DNS Implementation (Packet Tracer)
 - DNS server configuration using **Cisco Packet Tracer**
@@ -42,7 +42,7 @@ The project combines **theoretical analysis** and **practical experimentation** 
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - **Operating Systems:** Kali Linux, Ubuntu  
 - **Network Tools:** Wireshark, Cisco Packet Tracer  
 - **Protocols:** DNS, DNSSEC, DoT, DoH  
